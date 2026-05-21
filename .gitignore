@@ -1,2 +1,6 @@
 .env
 /env
+Chatbot/env
+Chatbot/.env
+__pycache__
+Chatbot/__pycache__

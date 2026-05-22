@@ -8,3 +8,6 @@ langchain-community
 duckduckgo-search
 ddgs
 langchain_mcp_adapters
+langchain-text-splitters
+pypdf
+faiss-cpu

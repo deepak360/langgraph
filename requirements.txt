@@ -3,3 +3,9 @@ langchain_openai
 langgraph
 dotenv
 jupyter_notebook
+langgraph-checkpoint-sqlite
+langchain-community
+duckduckgo-search
+ddgs
+langchain_mcp_adapters
+langchain-text-splitters
